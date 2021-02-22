@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS "message";
+DROP TABLE IF EXISTS "template";
+DROP TABLE IF EXISTS "mailer";
+DROP TABLE IF EXISTS "owner";
